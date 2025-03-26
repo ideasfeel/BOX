@@ -1,11 +1,10 @@
 {
     "spider": "https://cdn09022024.gitlink.org.cn/api/v1/repos/leevi0321/null/raw/spider.jar;md5;35BC24ED4CBAC25679143A8E0CD33EC8",
  "wallpaper": "https://imgs.catvod.com/",
-
     "sites": [
         {
             "key": "豆瓣",
-            "name": "🍥┃豆瓣┃首页",
+            "name": "🍥┃豆瓣┃首頁",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
@@ -981,7 +980,91 @@
                 "type": "list"
             }
         },
-      
+        {
+            "key": "我的夸克",
+            "name": "🧑‍💼┃我的┃夸克",
+            "type": 3,
+            "api": "csp_MyQuark",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "indexs": 0,
+            "ext": {
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt"
+            },
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "我的UC",
+            "name": "🧑‍💼┃我的┃UC",
+            "type": 3,
+            "api": "csp_MyUc",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "indexs": 0,
+            "ext": {
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt"
+            },
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "阿里合集",
+            "name": "🦊┃阿里┃合集",
+            "type": 3,
+            "api": "csp_AliShare",
+            "searchable": 1,
+            "changeable": 0,
+            "filterable": 0,
+            "indexs": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "share": "./JS/alishare.txt"
+            },
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "AList",
+            "name": "🧭┃ALi┃合集",
+            "type": 3,
+            "api": "csp_AList",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            },
+            "ext": "./json/alist.json"
+        },
+        {
+            "key": "网络直播",
+            "name": "🪗┃网络┃直播",
+            "type": 3,
+            "api": "csp_Living",
+            "searchable": 1
+        },
+        {
+            "key": "push_agent",
+            "name": "📲┃手机┃推送",
+            "type": 3,
+            "api": "csp_Push",
+            "searchable": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "danmu": true
+            }
+        }
+    ],
     "parses": [
 	    {
       "name": "Web聚合",
