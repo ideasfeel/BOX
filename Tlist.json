@@ -86,7 +86,7 @@
 
         {
             "key": "金牌影视",
-            "name": "🥇┃金牌┃影视",
+            "name": "🥇┃金牌影院┃",
             "type": 3,
             "api": "csp_WebJP",
             "searchable": 1,
@@ -97,7 +97,7 @@
 
           {
             "key": "csp_可可",
-            "name": "🥇┃可可┃影视",
+            "name": "🥇┃可可影视┃",
             "type": 3,
             "api": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/py/py_keke.py",
             "searchable": 1,
