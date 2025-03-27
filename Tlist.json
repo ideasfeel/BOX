@@ -176,19 +176,7 @@
                 "site": "0"
             }
         },
-        {
-            "key": "浪酷弹幕",
-            "name": "🏄️┃浪酷┃弹幕",
-            "type": 3,
-            "api": "csp_TianTian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true,
-                "site": "2"
-            }
-        },		
+		
         {
             "key": "西瓜视频",
             "name": "🍉┃西瓜┃视频",
@@ -266,38 +254,8 @@
                 "danmu": true
             }
         },
-
-        {
-            "key": "夸克闪电弹幕",
-            "name": "⚡️┃闪电┃网盘",
-            "type": 3,
-            "api": "csp_ShanDian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "danmu": true
-            }
-        },		
-        {
-            "key": "夸克蜡笔弹幕",
-            "name": "🖍️┃蜡笔┃玩偶",
-            "type": 3,
-            "api": "csp_Labi",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "danmu": true
-            }
-        },		
+	
+		
         {
             "key": "河马短剧",
             "name": "🦛┃河马┃短剧",
@@ -333,14 +291,7 @@
             "playerType": 2,
             "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt"
         },
-        {
-            "key": "时常",
-            "name": "⏲️┃收藏┃影视",
-            "type": 3,
-            "api": "csp_Xdai",
-            "playerType": 1,
-            "ext": "jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ="
-        },
+
         {
             "key": "快看",
             "name": "⏲️┃快看┃影视",
