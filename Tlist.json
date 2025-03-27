@@ -351,14 +351,6 @@
             "ext": "w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCoVpcUFfDjMOcw67DnsOPwqXCnFdqwpnCmsOiw63DrsKjal9fw6DDmMOuw5rDqsKjXsKkwqbDssOVw5vDqcOqYcKTwp/CncKow5TDqsOiwqjCo8KYwqBXwqXCk8Khw4LDqMKcwqTCh8Kfw6vDl8KhwrPCmlrCmcKewpnDrcOJwqvCqsKzWlxQV8Otw5zDqsKgwrRTV8KL5Ya16YWh5pCY5ZGdwqXlh6bkvYrlkKdq5b6h6Ki/6La35ryK562Sw5daXFBXwrrDmMOtw4TDn8KsV2pQwqDDoMOjw5zDpWVkZWjDpsOcw53DpMKsZ2VoV8KlwpPCocK6w5/CpnnCplfCs8KTwqHDpsOjwpbCm2Jkwq7Cq8Onw6LDncKeYmRlwrHCmsKmwpnCocKbwpXCkcKUw57DpcOtwqDCtFPCq1fCpcOsw5jDrMKmw5vCmsKVwp7CpMKgwq3CmsKgw4fCosKqwpnCnMOlw5TCqcKuwqhjUFjCh8Oiw6HDnsOow7HCplB+woTCmcKkwqrCp8KqblDCh8KZw6fCqcKuwrTCmsKrZmRZwpnCtMOqw6nDpsKYwofClcKSw4TDnMOuwqjCr2ZnXmPCr8KTwqLDhMOCwod9fFzCmcOfw6PDpMOfU3fClcKTw6TDosKjwpnCvcKbwqLCn8Kdw57CosKrwqrCrGFgXmDCp8KjwprDjMObwpnCkcKiwpnCqMKowq3CsMKoZmZXXMKZwprDm8Olw6bCosKnc8Kiw6jDpsOtw4nDrMKiwqTCn8KTw6jDn8OMw57DnsKcwqLClcKTw63DpsKhwrPCmsKHwqLCpcKVw7bCn8KawqDDnsKYwpPCosKpw6nDp8OFw57Ds1pqUFfDssOUw6nDsMObwqHCl2BhwqvCqcKhw7Y="
         },
         {
-            "key": "小米电影",
-            "name": "🍚┃小米┃电影",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "api": "csp_MovieApp"
-        },
-        {
             "key": "低端影视",
             "name": "🦄┃低端┃影视",
             "type": 3,
@@ -395,15 +387,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "1905",
-            "name": "🎦┃央妈┃电影",
-            "type": 3,
-            "api": "csp_Web1905",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0
         },
         {
             "key": "索尼资源",
@@ -541,19 +524,6 @@
               "日本动漫", "欧美动漫", "中国动漫", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "体育赛事"
             ]
           },
-
-
-        {
-            "key": "修罗影视",
-            "name": "🧲┃修罗┃磁力",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XBPQ/修罗影视.json"
-        },
-
         {
             "key": "美剧迷",
             "name": "🧲┃美剧┃磁力",
