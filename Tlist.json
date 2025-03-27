@@ -518,16 +518,6 @@
         },
 
         {
-            "key": "New6v",
-            "name": "🧲┃六维┃磁力",
-            "type": 3,
-            "api": "csp_New6v",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.xb6v.com"
-        },
-        {
             "key": "美剧迷",
             "name": "🧲┃美剧┃磁力",
             "type": 3,
