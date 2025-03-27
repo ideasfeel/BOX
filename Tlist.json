@@ -147,21 +147,6 @@
             "ext": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/json_now/紐約影院.json"
           },
 
-          {
-            "key": "csp_GimyTW",
-            "name": "🥈┃Gimy┃TW",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-              "分类url": "https://gimytw.cc/{cateId}/?country={area}&year={year}&order_by=-aired&page={catePg}",
-              "分类": "電視劇$drama#電影$movie#動漫$anime#綜藝$variety",
-              "地区": "大陸$cn#美國$us#韓國$kr#日本$jp#臺灣$tw#香港$hk#英國$gb||大陸$cn#美國$us#韓國$kr#日本$jp#臺灣$tw#香港$hk#英國$gb#其他$other||大陸$cn#韓國$kr#臺灣$tw#歐美$west#日本$jp||大陸$cn#韓國$kr#歐美$west#日本$jp"
-            }
-          },
 
         {
             "key": "夸克多多弹幕",
@@ -355,39 +340,6 @@
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
                 "danmu": true
             }
-        },
-        {
-            "key": "校长弹幕",
-            "name": "👨‍⚖┃校长┃网盘",
-            "type": 3,
-            "api": "csp_XiaoZhang",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "danmu": true
-            }
-        },		
-        {
-            "key": "雷鲸",
-            "name": "🐋┃雷鲸┃天意",
-            "type": 3,
-            "api": "csp_Wexleijing",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/leevi0321/apps/raw/wex.jar;md5;A2E404CA5B03A236D97E5A2D6486AC89"
-        },
-        {
-            "key": "星芽短剧",
-            "name": "🌟┃星芽┃短剧",
-            "type": 3,
-            "api": "csp_AppXY",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0
         },
         {
             "key": "河马短剧",
