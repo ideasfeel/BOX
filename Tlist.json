@@ -123,19 +123,6 @@
       },
 
           {
-            "key": "csp_七味影院",
-            "name": "🥇┃七味影院┃",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/json_now/七味影院.json"
-          },
-
-
-          {
             "key": "csp_nyys",
             "name": "🥈┃纽约┃",
             "type": 3,
@@ -147,22 +134,7 @@
             "ext": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/json_now/紐約影院.json"
           },
 
-
-        {
-            "key": "夸克多多弹幕",
-            "name": "👲┃多多┃影音",
-            "type": 3,
-            "api": "csp_DuoDuo",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "danmu": true
-            }
-        },			
+		
         {
             "key": "荐片",
             "name": "⏳┃荐片┃磁力",
@@ -327,21 +299,6 @@
             }
         },		
         {
-            "key": "夸克木偶弹幕",
-            "name": "🎠┃木偶┃锅锅",
-            "type": 3,
-            "api": "csp_Muou",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "danmu": true
-            }
-        },
-        {
             "key": "河马短剧",
             "name": "🦛┃河马┃短剧",
             "type": 3,
@@ -385,14 +342,6 @@
             "ext": "jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ="
         },
         {
-            "key": "现代",
-            "name": "⏲️┃现代┃影视",
-            "type": 3,
-            "api": "csp_Xdai",
-            "playerType": 1,
-            "ext": "caHR0cHM6Ly94ZHlzLnZpcC9nZXRhcHAudHh0fHN6ZGp3ZGFwcHdjbm1kaGJ8c3pkandkYXBwd2NubWRoYnwxMTQ="
-        },
-        {
             "key": "快看",
             "name": "⏲️┃快看┃影视",
             "type": 3,
@@ -431,15 +380,6 @@
             "filterable": 1
         },
         {
-            "key": "快看影视",
-            "name": "👁️┃快看┃影视",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "全网影视",
             "name": "📺︎┃全网┃影视",
             "type": 3,
@@ -458,13 +398,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://www.dyxz2.com/"
-        },
-        {
-            "key": "雪糕影视",
-            "name": "🧁┃雪糕┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "./XBPQ/雪糕影视.json"
         },
         {
             "key": "真心影视",
@@ -555,41 +488,7 @@
                 "欧美综艺"
             ]
         },
-        {
-            "key": "非凡资源",
-            "name": "🥗┃非凡┃资源",
-            "type": 1,
-            "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "动作片",
-                "喜剧片",
-                "科幻片",
-                "恐怖片",
-                "爱情片",
-                "剧情片",
-                "战争片",
-                "记录片",
-                "国产剧",
-                "欧美剧",
-                "香港剧",
-                "韩国剧",
-                "台湾剧",
-                "日本剧",
-                "海外剧",
-                "泰国剧",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫",
-                "港台动漫",
-                "海外动漫",
-                "大陆综艺",
-                "港台综艺",
-                "日韩综艺",
-                "欧美综艺"
-            ]
-        },
+
 
        {
             "key": "魔都资源",
@@ -611,18 +510,6 @@
             "filterable": 1,
             "order_num": 0,
             "ext": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/drpy_js1/NT动漫[漫].js"
-          },
-
-          {
-            "key": "Dm84",
-            "name": "🖼️┃动漫┃巴士(飯)",
-            "type": 3,
-            "api": "csp_Dm84",
-            "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/fan.txt;md5;8851819289f80deae32319080028db3b",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
           },
 
           {
@@ -690,15 +577,6 @@
             "ext": "https://www.xb6v.com"
         },
         {
-            "key": "SeedHub",
-            "name": "🧲┃种子┃磁力",
-            "type": 3,
-            "api": "csp_SeedHub",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "美剧迷",
             "name": "🧲┃美剧┃磁力",
             "type": 3,
@@ -719,23 +597,6 @@
             "filterable": 1,
             "ext": "./XBPQ/狐狸君.json"
         },
-
-          {
-            "key": "vod_闪电资源",
-            "name": "🧲┃閃電┃",
-            "type": 1,
-            "api": "https://xsd.sdzyapi.com/api.php/provide/vod/",
-            "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/fan.txt;md5;8851819289f80deae32319080028db3b",
-            "searchable": 1,
-            "quickSearch": 1,
-            "playerType": 2,
-            "categories": [
-              "国产剧" , "韩国剧" , "国产动漫", "欧美剧" , "香港剧" , "台湾剧" , "日剧"  , "海外剧" , "日本动漫",
-              "欧美动漫", "港台动漫", "海外动漫", "动作片" , "喜剧片" , "科幻片" , "恐怖片" , "爱情片" , "剧情片" ,
-              "战争片" , "纪录片" , "犯罪片" , "其他片" , "悬疑片" , "奇幻片" , "动画片" , "大陆综艺", "港台综艺",
-              "日韩综艺", "欧美综艺"
-            ]
-          },
         {
             "key": "Mp4电影",
             "name": "🧲┃高清┃磁力",
