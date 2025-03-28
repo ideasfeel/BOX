@@ -376,28 +376,7 @@
             }
         },
 
-	        {
-      "key": "糯米",
-      "name": "🍓┃糯米┃秒播",
-      "type": 3,
-      "api": "csp_Nmyswv",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-	    
-    {
-      "key": "wnys",
-      "name": "🐌┃蜗牛┃多线",
-      "type": 0,
-      "api": "https://dy.5209426.xyz/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
 	
-		
         {
             "key": "河马短剧",
             "name": "🦛┃河马┃短剧",
