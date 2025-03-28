@@ -45,7 +45,7 @@
 
           {
             "key": "Wexduboku",
-            "name": "🎖︎┃獨播庫┃",
+            "name": "📽️┃獨播庫┃",
             "type": 3,
             "api": "csp_WexdubokuGuard",
             "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/wex.jar",
@@ -55,7 +55,7 @@
 
           {
             "key": "hipy_js_奇珍异兽[官]",
-            "name": "🎖︎┃愛奇异┃",
+            "name": "🥝┃愛奇异┃",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -65,7 +65,7 @@
 
 	    {
             "key": "yfsp",
-            "name": "🎖︎┃愛壹帆┃",
+            "name": "💥┃愛壹帆┃",
             "type": 3,
             "searchable": 1,
             "changeable": 1,
@@ -102,7 +102,7 @@
 
           {
             "key": "drpy_js1_优酷",
-            "name": "🎖︎┃优酷┃",
+            "name": "💫┃优酷┃",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -112,7 +112,7 @@
 
          {
             "key": "drpy_js1_腾云驾雾",
-            "name": "🎖︎┃腾讯┃",
+            "name": "🐧┃腾讯┃",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -122,7 +122,7 @@
 
           {
             "key": "drpy_js1_百忙无果",
-            "name": "🎖︎┃芒果┃",
+            "name": "🥭┃芒果┃",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
