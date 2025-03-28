@@ -7,7 +7,7 @@
   "sites": [
     {
 	  "key":"Douban",
-	  "name":"【王二小放牛娃】",
+	  "name":"【點播專區】",
 	  "type": 3, 
 	  "api": "csp_DoubanGuard",
 	  "searchable": 0,
