@@ -1,5 +1,4 @@
-  "vod": [
-
+[
     {
             "name": "📽️ 獨播庫",
             "type": 3,
@@ -7,4 +6,4 @@
       "instance": "Wexduboku",
            "remark": ""
     },
-  ],
+]
