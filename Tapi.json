@@ -34,7 +34,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "KhY021WelCEl+6MsvwnzaPussky6FQJcpCjT9V7/D61ft9vQAhNEPOYSMZVJSODd/JOOSOwUzim+9qfvgpNz7SvUPpAkXAweyrp76WY8s5EBwW7DBMY="
-        },	
+        },
+
+	        {
+      "key": "csp_Wwys",
+      "name": "┃农民┃影视",
+      "jar": "https://tv.xn--11x555b.top/jar/m.jar",
+      "type": 3,
+      "api": "csp_WwysGuard",
+      "ext": "https://www.wwgz.cn"
+    },
 
           {
             "key": "Wexduboku",
