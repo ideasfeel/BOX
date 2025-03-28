@@ -86,16 +86,57 @@
             "ext": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/drpy_js1/百忙无果[官].js"
           },
 	    
-         {
-            "key": "金牌影视",
-            "name": "┃金牌影院┃",
-            "type": 3,
-            "api": "csp_WebJP",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "KhY021WelCEl+6MsvwnzaPusskysEhxc/i3d/FHwReBTtZTeDEVZJbQKKez3K+OxlrjAIMdUpAUxP8fGystYn0Hss098UFVR69Qm2ARgmeZN86q8Ww=="
-        },
+ {
+        "key": "金牌影视",
+        "name": "┃金牌影院┃",
+        "type": 3,
+        "api": "csp_Jpys",
+        "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311",
+        "playerType": 2,
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1
+      },
+	    
+      {
+        "key": "Auete",
+        "name": "┃銀牌影院┃",
+        "type": 3,
+        "api": "csp_Auete",
+        "timeout": 15,
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "ext": "https://auete.pro/",
+        "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/fan.txt;md5;8851819289f80deae32319080028db3b"
+      },
+      {
+        "key": "csp_开心影院",
+        "name": "┃銅牌影院┃",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/json_now/開心影院.json"
+      },
+      {
+        "key": "csp_歐樂影院ORG",
+        "name": "┃鐵牌影院┃",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": {
+          "简介": "content_desc context clearfix\">&&</span>",
+          "分类url": "https://www.oulevod.org/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
+          "分类": "電視劇$2#電影$1#動漫$4#綜藝$3#短劇$53",
+          "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他"
+        }
+      },
 
           {
             "key": "csp_可可",
