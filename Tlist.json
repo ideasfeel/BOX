@@ -542,18 +542,6 @@
           },
 
           {
-            "key": "hipy_js_NT动漫[漫]",
-            "name": "🖼️┃动漫┃牛顿",
-            "type": 3,
-            "api": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/drpy_libs1/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/drpy_js1/NT动漫[漫].js"
-          },
-
-          {
             "key": "py_dm84",
             "name": "🖼️┃动漫┃动漫巴士",
             "type": 3,
@@ -623,35 +611,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-
-	        {
-      "key": "有声小说js",
-      "name": "🎧┃有声┃小说",
-      "type": 3,
-      "api": "https://tv.xn--11x555b.top/EXT/drpy2.min.js",
-      "ext": "https://tv.xn--11x555b.top/EXT/有声小说吧.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-
-	        {
-      "key":"学外语",
-      "name":"📚┃外语┃教育",
-      "type":3,
-      "api":"csp_Bili",
-      "jar": "https://tv.xn--11x555b.top/lib/woniu.jar",
-      "searchable":1,
-      "ua": "okhttp/3.15",
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"https://tv.xn--11x555b.top/lib/waiyu.json"
-    }
+        }
     ],
     "parses": [
 	    {
