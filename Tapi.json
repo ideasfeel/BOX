@@ -14,7 +14,7 @@
 
         {
             "key": "小苹果弹幕",
-            "name": "🍎┃苹果┃影视",
+            "name": "┃苹果┃影视",
             "type": 3,
             "api": "csp_Xpg",
             "searchable": 1,
@@ -38,7 +38,7 @@
 
           {
             "key": "Wexduboku",
-            "name": "🎖︎┃獨播庫┃",
+            "name": "┃獨播庫┃",
             "type": 3,
             "api": "csp_WexdubokuGuard",
             "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/wex.jar",
@@ -48,7 +48,7 @@
 
           {
             "key": "hipy_js_奇珍异兽[官]",
-            "name": "🎖︎┃愛奇异┃",
+            "name": "┃愛奇异┃",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -58,7 +58,7 @@
 
           {
             "key": "drpy_js1_优酷",
-            "name": "🎖︎┃优酷┃",
+            "name": "┃优酷┃",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -68,7 +68,7 @@
 
          {
             "key": "drpy_js1_腾云驾雾",
-            "name": "🎖︎┃腾讯┃",
+            "name": "┃腾讯┃",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -78,7 +78,7 @@
 
           {
             "key": "drpy_js1_百忙无果",
-            "name": "🎖︎┃芒果┃",
+            "name": "┃芒果┃",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -88,7 +88,7 @@
 	    
          {
             "key": "金牌影视",
-            "name": "🥇┃金牌影院┃",
+            "name": "┃金牌影院┃",
             "type": 3,
             "api": "csp_WebJP",
             "searchable": 1,
@@ -99,7 +99,7 @@
 
           {
             "key": "csp_可可",
-            "name": "🥇┃可可影视┃",
+            "name": "┃可可影视┃",
             "type": 3,
             "api": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/py/py_keke.py",
             "searchable": 1,
@@ -109,7 +109,7 @@
 
 	    {
             "key": "csp_nyys",
-            "name": "🥈┃纽约┃",
+            "name": "┃纽约┃",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
@@ -122,7 +122,7 @@
 		
         {
             "key": "荐片",
-            "name": "⏳┃荐片┃磁力",
+            "name": "┃荐片┃磁力",
             "type": 3,
             "api": "csp_Jianpian",
             "searchable": 1,
@@ -136,7 +136,7 @@
 
         {
             "key": "天天弹幕",
-            "name": "⏱️┃天天┃弹幕",
+            "name": "┃天天┃弹幕",
             "type": 3,
             "api": "csp_TianTian",
             "searchable": 1,
@@ -150,7 +150,7 @@
 	
         {
             "key": "热播弹幕",
-            "name": "🐠┃热播┃秒播",
+            "name": "┃热播┃秒播",
             "type": 3,
             "api": "csp_TianTian",
             "searchable": 1,
@@ -164,7 +164,7 @@
 		
         {
             "key": "西瓜视频",
-            "name": "🍉┃西瓜┃视频",
+            "name": "┃西瓜┃视频",
             "type": 3,
             "api": "csp_AmuXiguaV2",
             "searchable": 1,
@@ -178,7 +178,7 @@
         },	
         {
             "key": "文才弹幕",
-            "name": "🖌┃文才┃弹幕",
+            "name": "┃文才┃弹幕",
             "type": 3,
             "api": "csp_Jpys",
             "searchable": 1,
@@ -190,7 +190,7 @@
         },		
         {
             "key": "哔哩弹幕",
-            "name": "🅱️┃哔哩┃弹幕",
+            "name": "┃哔哩┃弹幕",
             "type": 3,
             "api": "csp_Bilimd",
             "searchable": 1,
@@ -207,7 +207,7 @@
         },
         {
             "key": "哔哩合集",
-            "name": "🅱️┃哔哩┃合集",
+            "name": "┃哔哩┃合集",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
@@ -225,7 +225,7 @@
         },
         {
             "key": "立播弹幕",
-            "name": "💂┃立播┃弹幕",
+            "name": "┃立播┃弹幕",
             "type": 3,
             "api": "csp_Libvio",
             "searchable": 1,
@@ -243,7 +243,7 @@
 		
         {
             "key": "河马短剧",
-            "name": "🦛┃河马┃短剧",
+            "name": "┃河马┃短剧",
             "type": 3,
             "api": "csp_AppHMDJ",
             "searchable": 1,
@@ -261,7 +261,7 @@
 
         {
             "key": "韩小圈",
-            "name": "🍩┃韩圈┃影视",
+            "name": "┃韩圈┃影视",
             "type": 3,
             "api": "csp_HanXiaoQuan",
             "searchable": 1,
@@ -270,7 +270,7 @@
         },
         {
             "key": "巧技",
-            "name": "🛠️┃巧技┃影视",
+            "name": "┃巧技┃影视",
             "type": 3,
             "api": "csp_qiao2",
             "playerType": 2,
@@ -290,7 +290,7 @@
         },
         {
             "key": "云播影视",
-            "name": "🌤️┃云播┃APP",
+            "name": "┃云播┃APP",
             "type": 3,
             "api": "csp_AppGetApp",
             "searchable": 1,
@@ -309,7 +309,7 @@
         },
         {
             "key": "全网影视",
-            "name": "📺︎┃全网┃影视",
+            "name": "┃全网┃影视",
             "type": 3,
             "api": "csp_Quanwk",
             "searchable": 1,
@@ -319,7 +319,7 @@
         },
         {
             "key": "奇优影视",
-            "name": "🥝┃奇优┃影视",
+            "name": "┃奇优┃影视",
             "type": 3,
             "api": "csp_Qiyou",
             "searchable": 1,
@@ -329,7 +329,7 @@
         },
         {
             "key": "真心影视",
-            "name": "💞┃真心┃影视",
+            "name": "┃真心┃影视",
             "type": 3,
             "api": "csp_WebGZ",
             "searchable": 1,
@@ -338,7 +338,7 @@
         },
         {
             "key": "索尼资源",
-            "name": "🐉┃索尼┃采集",
+            "name": "┃索尼┃采集",
             "type": 1,
             "api": "https://suoniapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -374,7 +374,7 @@
         },
         {
             "key": "量子资源",
-            "name": "🥑┃量子┃资源",
+            "name": "┃量子┃资源",
             "type": 1,
             "api": "https://cj.lziapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -411,7 +411,7 @@
 
        {
             "key": "魔都资源",
-            "name": "🖼️┃动漫┃魔都",
+            "name": "┃动漫┃魔都",
             "type": 1,
             "api": "https://caiji.moduapi.cc/api.php/provide/vod",
             "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/panda1123.jar;md5;d9004aa2e16f60b04baed361713fb710",
@@ -421,7 +421,7 @@
 
           {
             "key": "hipy_js_NT动漫[漫]",
-            "name": "🖼️┃动漫┃牛顿",
+            "name": "┃动漫┃牛顿",
             "type": 3,
             "api": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/drpy_libs1/drpy2.min.js",
             "searchable": 1,
@@ -433,7 +433,7 @@
 
           {
             "key": "py_dm84",
-            "name": "🖼️┃动漫┃动漫巴士",
+            "name": "┃动漫┃动漫巴士",
             "type": 3,
             "api": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/py/py_dm84.py",
             "searchable": 1,
@@ -444,7 +444,7 @@
 
           {
             "key": "csp_AG動漫",
-            "name": "🖼️┃动漫┃AG動漫",
+            "name": "┃动漫┃AG動漫",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
@@ -460,7 +460,7 @@
 
           {
             "key": "vod_极速",
-            "name": "🧲┃極速┃资源",
+            "name": "┃極速┃资源",
             "type": 1,
             "api": "https://jszyapi.com/api.php/provide/vod/at/json",
             "searchable": 1,
@@ -474,7 +474,7 @@
           },
         {
             "key": "美剧迷",
-            "name": "🧲┃美剧┃磁力",
+            "name": "┃美剧┃磁力",
             "type": 3,
             "api": "csp_MeijuMi",
             "searchable": 1,
@@ -484,7 +484,7 @@
 
         {
             "key": "狐狸君",
-            "name": "🧲┃狐狸┃磁力",
+            "name": "┃狐狸┃磁力",
             "type": 3,
             "api": "csp_XBPQ",
             "changeable": 1,
@@ -495,7 +495,7 @@
         },
         {
             "key": "Mp4电影",
-            "name": "🧲┃高清┃磁力",
+            "name": "┃高清┃磁力",
             "type": 3,
             "api": "csp_Mp4Mov",
             "searchable": 1,
