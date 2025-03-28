@@ -625,6 +625,21 @@
         },
 
 	        {
+      "key": "有声小说js",
+      "name": "🎧┃有声┃小说",
+      "type": 3,
+      "api": "https://tv.xn--11x555b.top/EXT/drpy2.min.js",
+      "ext": "https://tv.xn--11x555b.top/EXT/有声小说吧.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+
+	        {
       "key":"学外语",
       "name":"📚┃外语┃教育",
       "type":3,
