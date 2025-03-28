@@ -31,7 +31,7 @@
   "vod": [
 
     {
-      "name": "瓜子影视🍈",
+      "name": "瓜子影视",
       "version": 2,
       "remark": "v1.6.53 及以上版本",
       "webSite": "https://api.9cec79d.com",
@@ -42,7 +42,7 @@
     },
 
     {
-      "name": "瓜子web🌐",
+      "name": "瓜子NET",
       "version": 2,
       "webSite": "https://api.zaqohu.com",
       "instance": "gzys20240822",
@@ -51,7 +51,7 @@
     },
 
     {
-      "name": "欧乐影院☀️",
+      "name": "欧乐影院",
       "version": 2,
       "webSite": "https://www.olevod.tv",
       "instance": "olevod20240620",
@@ -60,7 +60,7 @@
     },
 
     {
-      "name": "烧火电影🔥",
+      "name": "烧火电影",
       "version": 2,
       "webSite": "https://saohuo.tv",
       "instance": "saohuo20240623",
@@ -69,7 +69,7 @@
     },
 
     {
-      "name": "韩剧看看🥬",
+      "name": "韩剧看看",
       "version": 2,
       "webSite": "https://www.hanjukankan.com",
       "instance": "hjkk20240624",
@@ -78,7 +78,7 @@
     },
 
     {
-      "name": "金牌影院🥇",
+      "name": "金牌影院",
       "version": 2,
       "webSite": "https://www.ghw9zwp5.com",
       "instance": "jpyy20240716",
@@ -87,7 +87,7 @@
     },
 
     {
-      "name": "在线之家☄️",
+      "name": "在线之家",
       "version": 2,
       "webSite": "https://www.zxzja.com",
       "instance": "zxzj20240620",
@@ -96,7 +96,7 @@
     },
 
     {
-      "name": "南风短剧🍁",
+      "name": "南风短剧",
       "version": 1,
       "webSite": "https://www.nanf.cc",
       "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/nanfdj.js",
@@ -105,17 +105,17 @@
 
     {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
-      "name": "如意✨",
+      "name": "如意",
       "type": 0
     },
     {
       "api": "https://json.heimuer.xyz/api.php/provide/vod/",
-      "name": "黑木耳🌘",
+      "name": "黑木耳",
       "type": 0
     },
     {
       "api": "https://cjhwba.com/api.php/provide/vod/",
-      "name": "华为吧💥",
+      "name": "华为吧",
       "type": 0
     }
 
@@ -123,19 +123,19 @@
   ],
   "live": [
     {
-      "name": "电视直播📺",
+      "name": "电视直播",
       "api": "https://tv.iill.top/m3u/Gather",
       "type": 10,
       "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
     },
     {
-      "name": "网络直播🎥",
+      "name": "网络直播",
       "api": "https://tv.iill.top/m3u/Live",
       "type": 10,
       "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
     },
     {
-      "name": "体育直播🚴‍",
+      "name": "体育直播,
       "api": "https://tv.iill.top/m3u/Sport",
       "type": 10,
       "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
