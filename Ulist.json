@@ -1,53 +1,10 @@
-
   "vod": [
 
     {
-      "name": "瓜子 app",
-      "version": 2,
-      "remark": "v1.6.53 及以上版本",
-      "webSite": "https://api.9cec79d.com",
-      "codeID": "ra5Z3wtXKshzSMK2",
-      "instance": "gzapp20241001",
-      "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/gzapp.txt",
-      "type": 100
-    },
-
-    {
-      "name": "瓜子web",
-      "version": 2,
-      "webSite": "https://api.zaqohu.com",
-      "instance": "gzys20240822",
-      "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/gzys.js",
-      "type": 100
-    },
-
-    {
-            "key": "Wexduboku",
-            "name": "📽️┃獨播庫┃",
+            "name": "📽️ 獨播庫",
             "type": 3,
             "api": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/wex.jar",
-            "searchable": 1,
-            "changeable": 1
+      "instance": "Wexduboku",
+           "remark": ""
     },
   ],
-  "live": [
-    {
-      "name": "📺电视直播",
-      "api": "https://tv.iill.top/m3u/Gather",
-      "type": 10,
-      "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
-    },
-    {
-      "name": "🎥网络直播",
-      "api": "https://tv.iill.top/m3u/Live",
-      "type": 10,
-      "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
-    },
-    {
-      "name": "🚴‍♂️体育直播",
-      "api": "https://tv.iill.top/m3u/Sport",
-      "type": 10,
-      "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
-    }
-  ]
-}
