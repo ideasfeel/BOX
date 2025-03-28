@@ -185,6 +185,39 @@
             "filterable": 1
           },
 
+	              {
+            "key": "csp_Euvod",
+            "name": "┃伊優┃",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/json_now/伊優.json"
+          },
+          {
+            "key": "csp_看片狂人",
+            "name": "┃看片狂人┃",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+              "免嗅": "1",
+              "线路数组": "class=\"fed-drop-btns fed-padding&&</li>",
+              "线路标题": "data-linename=\"&&\"[不包含:腾讯视频-VIP解析#芒果-VIP解析#超清FM线#超清STP线#超清VH线#超清RP线#超清SW线#超清UP线#超清ST线]",
+              "搜索url": "https://www.kpkuang.fun/vodsearch/-------------.html?wd={wd}",
+              "分类url": "https://www.kpkuang.fun/vodshow/{cateId}-{area}-time------{catePg}---{year}--.html",
+              "分类": "电影$1#连续剧$2#综艺$3#动漫$4",
+              "地区": "中国大陆&香港&台湾&日本&韩国&泰国&美国&英国&德国&法国||中国大陆&韩国&香港&台湾&日本&美国&泰国&英国&新加坡&其他||香港&台湾&韩国&中国大陆&英国&美国&日本&加拿大&泰国&其它||日本&大陆&中国大陆&中国&美国&台湾&韩国&法国&英国&加拿大"
+            }
+          },
+
 	    {
             "key": "csp_nyys",
             "name": "┃纽约┃",
