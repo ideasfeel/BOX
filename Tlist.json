@@ -620,7 +620,20 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        }
+        },
+
+	        {
+      "key":"学外语",
+      "name":"📚外语┃教育",
+      "type":3,
+      "api":"csp_Bili",
+      "jar": "https://tv.xn--11x555b.top/lib/woniu.jar",
+      "searchable":1,
+      "ua": "okhttp/3.15",
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://tv.xn--11x555b.top/lib/waiyu.json"
+    }
     ],
     "parses": [
 	    {
