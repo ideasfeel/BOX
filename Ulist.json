@@ -31,7 +31,7 @@
   "vod": [
 
         {
-      "name": "🥇金牌影院",
+      "name": "🎖️金牌影院",
       "version": 2,
       "webSite": "https://www.ghw9zwp5.com",
       "instance": "jpyy20240716",
@@ -40,7 +40,7 @@
     },
 
     {
-      "name": "🥇欧乐影院",
+      "name": "🎖️欧乐影院",
       "version": 2,
       "webSite": "https://www.olevod.tv",
       "instance": "olevod20240620",
@@ -49,7 +49,7 @@
     },
 
     {
-      "name": "🥇烧火电影",
+      "name": "🎖️烧火电影",
       "version": 2,
       "webSite": "https://saohuo.tv",
       "instance": "saohuo20240623",
@@ -58,7 +58,7 @@
     },
 
     {
-      "name": "🥇韩剧看看",
+      "name": "🎖️韩剧看看",
       "version": 2,
       "webSite": "https://www.hanjukankan.com",
       "instance": "hjkk20240624",
@@ -105,23 +105,23 @@
 
    {
         "api": "https://cj.rycjapi.com/api.php/provide/vod",
-        "name": "🔵如意"
+        "name": "🍥如意"
     },
     {
         "api": "https://cjhwba.com/api.php/provide/vod/",
-        "name": "🔵华为吧"
+        "name": "🍥华为吧"
     },
     {
         "api": "https://api.1080zyku.com/inc/apijson.php",
-        "name": "🔵1080源"
+        "name": "🍥1080源"
     },
         {
         "api": "https://ikunzyapi.com/api.php/provide/vod",
-        "name": "🔵ikun源"
+        "name": "🍥ikun源"
     },
        {
         "api": "https://cj.lzcaiji.com/api.php/provide/vod/at/json",
-        "name": "🥑量子源"
+        "name": "🍥量子源"
     },
      {
         "api": "https://www.mdzyapi.com/api.php/provide/vod/",
