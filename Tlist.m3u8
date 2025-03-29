@@ -34,8 +34,11 @@ Discovery,http://125.227.210.55:8154/VideoInput/play.ts
 HBOHD,http://125.227.210.55:8153/VideoInput/play.ts
 音樂欣賞1,http://61.221.215.25:8800/hls/49/index.m3u8
 HGTV,https://stream1.freetv.fun/hgtv-11.m3u8
-TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
+TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
+TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+TVBS歡樂台,http://125.227.210.55:8187/VideoInput/play.ts
+TVBSHD,http://125.227.210.55:8188/VideoInput/play.ts
 幸福空間,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live206/4gtv-live-mid/720.m3u8?token=a_pnI7R9DaSKjeZwFyfjwQ&expires=1719031045&token1=uGPvDW0SYYqJjBSpZS1qsg&expires1=1719031045
 
 
