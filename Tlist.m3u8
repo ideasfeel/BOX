@@ -44,8 +44,15 @@ ELEVEN體育2,rtmp://f13h.mine.nu/sat/tv741
 三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8#http://61.221.215.25:8800/hls/41/index.m3u8
 三立臺灣臺,http://125.227.210.55:8160/VideoInput/play.ts
 中天娛樂,http://61.221.215.25:8800/hls/47/index.m3u8
-龍華偶像台,http://aktv-stream.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
-龍華日韓台,http://aktv-stream.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
+龍華偶像,https://stream1.freetv.fun/626104cd52e8588109aa2a21e3feeefad86bc99160649cc9a119b02f405c006c.m3u8
+龍華偶像,https://stream1.freetv.fun/e18ae5798c2c422d7dd3f38ed87d8026fb4d7139e123cc51eeb0ef85d270611b.m3u8
+龍華偶像,http://aktv-stream.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
+龍華戲劇,https://stream1.freetv.fun/6dfb8189be0e3e69a2b9a63956a201bdd04ba0c3db1eeec0c20406ada33ba775.m3u8
+龍華戲劇,https://stream1.freetv.fun/643e102a893b2d330b1a16102c5e9bbac0dab1530ca57aa960ec0127a503e948.ctv
+龍華戲劇,https://stream1.freetv.fun/654c1d76067bc90729826819ea043d06be160c63b8a331bd4b09c0bc830eba0a.m3u8
+龍華日韓,https://stream1.freetv.fun/54187f7b52bbb08407ce9894fa6e6b0ba632cdd0aeb29c91e9cb9efd129898ce.m3u8
+龍華日韓,https://stream1.freetv.fun/db29933bceb9fadc45d7e807beffc98751516e6c872f43b61e62ec4bfe489892.m3u8
+龍華日韓,http://aktv-stream.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
 CYC世新綜合,http://61.58.60.230:9319/live/49.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8#http://www.dalitv.com.tw:4568/live/dali/index.m3u8#http://www.dalitv.com.tw:4568/live/dali/index.m3u8#http://www.dalitv.com.tw:4568/live/dali/index.m3u8#http://www.dalitv.com.tw:4568/live/dali/index.m3u8#http://www.dalitv.com.tw:4568/live/dali/index.m3u8#http://www.dalitv.com.tw:4568/live/dali/index.m3u8#http://www.dalitv.com.tw:4568/live/dali/index.m3u8#http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 蕃薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top#http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
@@ -119,8 +126,21 @@ TVBS新聞ᴴᴰ,https://stream1.freetv.fun/a67c11a5eee993a86572cad77d092d4b7289
 美亞電影台ᵀᵂ,https://stream1.freetv.fun/339ff49ac59044d746e6e249868ada0251c4a5b34bfff20c724e5dd33ec425fd.ctv
 美亞電影台ᵀᵂ,https://stream1.freetv.fun/364ab897bc6f681e9a63a87348e5234e25e3582b43777c2f449bd4081b94f578.ctv
 美亞電影台ᵀᵂ,https://stream1.freetv.fun/0b41bbfd5ab19b06988687d4ee84c5e1b493381ceb25ad3d77085ca81e129e4c.m3u8
-龍華經典台,http://aktv-stream.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
-龍華電影台,http://aktv-stream.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
+龍華洋片,https://stream1.freetv.fun/e8ee0afd33c920caa7c18fc9d865c59cd101de5d8ed0c09916f02c0010090581.ctv
+龍華洋片,https://stream1.freetv.fun/ab9b75d5c11a5b6f44394bfd9075b87e8491a660b6c671ff2a30f66ab44eeb4b.m3u8
+龍華洋片,https://stream1.freetv.fun/208a979e6bc122c591af515058330b1af1620f0db4bbadc3646295e5e1caeb2a.ctv
+龍華經典,https://stream1.freetv.fun/b3cafc1195fc65049e4faa3252721631530e68ef560f3cbd2f0db533d558cf57.m3u8
+龍華經典,https://stream1.freetv.fun/133c1cb4d4f9c38efb1d5fd9b607ee2bc8c49709bd7bb7fa8efde733119a33f1.m3u8
+龍華經典,http://aktv-stream.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
+龍華電影,https://stream1.freetv.fun/83a6e8c5aa7228eb03911067955daffda2410f340794bf991252d5952fffef16.ctv
+龍華電影,https://stream1.freetv.fun/1178a02eb676ee58293691fdc19fed767b2dc61d866c1fee41447a8503ec0253.ctv
+龍華電影,https://stream1.freetv.fun/758b3353d6a37e3663f32ba2153b6a5585cbe6f414cf3ad8ab2c8791aff8937b.m3u8
+龍華電影,https://stream1.freetv.fun/6961972686026827eee5759c59a6ff58f91cfc73683b0f5b233e22074dcc0802.m3u8
+龍華電影,https://stream1.freetv.fun/7dc7edbc9da8286c026241460b0f4304cd75f29e79c823702520597958c91357.ctv
+龍華電影,https://stream1.freetv.fun/3beb8e85e9bc7d49a711576a7f6832c40a434221e9646bacedcdb8e707392017.m3u8
+龍華電影,https://stream1.freetv.fun/5c51685fdfc55a835ff5b6ebb0721611dece607aa224be274bd9d8ab05a1cfe4.m3u8
+龍華電影,https://stream1.freetv.fun/bb02041f583163ef2f0618ac53f1ed97f03c5ca37f16f0dcfd15bcd02630a4f0.m3u8
+龍華電影,http://aktv-stream.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
 HBOᴴᴰ,http://125.227.210.55:8153/VideoInput/play.ts
 HBO Asia,http://122.117.71.103:8556/http/61.222.53.250:8081/hls/71/813/ch41.m3u8
 HBO Asia,https://stream1.freetv.fun/ca38481f4b5ff01e9a6c73d84bfccf2780a942e3970b12a3f2907f1ac402da8d.m3u8
