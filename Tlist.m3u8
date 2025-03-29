@@ -39,4 +39,16 @@ Discovery,http://125.227.210.55:8154/VideoInput/play.ts
 HBOHD,http://125.227.210.55:8153/VideoInput/play.ts
 好萊塢電影,http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 HGTV,https://stream1.freetv.fun/hgtv-11.m3u8
+
 AMC電影臺,http://61.221.215.25:8800/hls/43/index.m3u8
+探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
+博斯網球,rtmp://f13h.mine.nu/sat/md031
+
+ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
+ELEVEN2,rtmp://f13h.mine.nu/sat/md021
+
+ELTA體育1,rtmp://f13h.mine.nu/sat/md051
+ELTA體育2,rtmp://f13h.mine.nu/sat/md011
+ELTA體育3,rtmp://f13h.mine.nu/sat/md041
+
