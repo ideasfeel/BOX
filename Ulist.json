@@ -87,7 +87,7 @@
     },
 
     {
-      "name": "在线之家",
+      "name": "🌤️在线之家",
       "version": 2,
       "webSite": "https://www.zxzja.com",
       "instance": "zxzj20240620",
@@ -96,7 +96,7 @@
     },
 
     {
-      "name": "南风短剧",
+      "name": "🌤️南风短剧",
       "version": 1,
       "webSite": "https://www.nanf.cc",
       "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/nanfdj.js",
@@ -121,52 +121,52 @@
     },
        {
         "api": "https://cj.lzcaiji.com/api.php/provide/vod/at/json",
-        "name": "🔵量子源"
+        "name": "🥑量子源"
     },
      {
         "api": "https://www.mdzyapi.com/api.php/provide/vod/",
-        "name": "🔵墨斗"
+        "name": "🍥墨斗"
     },
        {
         "api": "https://okzyw9.com/api.php/provide/vod/",
-        "name": "🔵OK"
+        "name": "🍥OK"
     },
       {
         "api": "https://api.niuniuzy.me/api.php/provide/vod/",
-        "name": "🔵牛牛"
+        "name": "🍥牛牛"
     },
        {
         "api": "https://cj.yayazy.net/api.php/provide/vod/",
-        "name": "🔵丫丫"
+        "name": "🍥丫丫"
     },
       {
         "api": "https://cj.vodimg.top/api.php/provide/vod/",
-        "name": "🔵影图"
+        "name": "🍥影图"
     },
         {
         "api": "http://sdzyapi.com/api.php/provide/vod/",
-        "name": "🔵闪电"
+        "name": "🍥闪电"
     },
        {
         "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-        "name": "🔵新浪"
+        "name": "🍥新浪"
     },
       {
         "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/",
-        "name": "🔵量子资源(lzm3u8)"
+        "name": "🍥量子资源(lzm3u8)"
     },
      {
         "api": "https://360zy.com/api.php/seaxml/vod",
-        "name": "🔵360资源1"
+        "name": "🍥360资源1"
     },
        {
         "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json/",
-        "name": "🔵爱坤资源json"
+        "name": "🍥爱坤资源json"
     },
        {
         "api": "https://api.1080zyku.com/inc/api_mac10.php",
-        "name": "🔵1080资源"
-    },
+        "name": "🍥1080资源"
+    }
 
 
   ],
