@@ -80,3 +80,12 @@ CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
 CINEMAX,http://122.117.71.103:8558/http/61.222.53.250:8081/hls/71/813/ch42.m3u8
 HISTORY,http://37.27.111.214:8080/live/27/hls.m3u8
 
+
+紀實,#genre#
+動物星球,http://61.221.215.25:8800/hls/57/index.m3u8#http://61.221.215.25:8800/hls/57/index.m3u8#http://61.221.215.25:8800/hls/57/index.m3u8
+動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+Discovery,http://125.227.210.55:8154/VideoInput/play.ts
+BBC Lifestyle TW,https://stream1.freetv.fun/c5da3eac8fc6ac2d8e5442aeccd76ea65ad9701ac6a1dd24ac4d07f14d6307f5.ctv
+HGTV(TW),https://stream1.freetv.fun/4bbe9416c5a1dc8c7c181ec74082ebb5708e070d58764b6025645a6aa5f05e10.ctv
+HGTV,https://stream1.freetv.fun/hgtv-11.m3u8
+
