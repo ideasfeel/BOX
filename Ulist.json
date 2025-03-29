@@ -106,10 +106,6 @@
         "api": "https://api.1080zyku.com/inc/apijson.php",
         "name": "⭐1080源"
     },
-        {
-        "api": "https://ikunzyapi.com/api.php/provide/vod",
-        "name": "⭐ikun源"
-    },
        {
         "api": "https://cj.lzcaiji.com/api.php/provide/vod/at/json",
         "name": "⭐量子源"
@@ -121,18 +117,6 @@
        {
         "api": "https://okzyw9.com/api.php/provide/vod/",
         "name": "⭐OK"
-    },
-      {
-        "api": "https://api.niuniuzy.me/api.php/provide/vod/",
-        "name": "⭐牛牛"
-    },
-       {
-        "api": "https://cj.yayazy.net/api.php/provide/vod/",
-        "name": "⭐丫丫"
-    },
-      {
-        "api": "https://cj.vodimg.top/api.php/provide/vod/",
-        "name": "⭐影图"
     },
         {
         "api": "http://sdzyapi.com/api.php/provide/vod/",
@@ -148,11 +132,11 @@
     },
      {
         "api": "https://360zy.com/api.php/seaxml/vod",
-        "name": "⭐360资源1"
+        "name": "⭐360资源"
     },
        {
         "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json/",
-        "name": "⭐爱坤资源json"
+        "name": "⭐爱坤资源"
     },
        {
         "api": "https://api.1080zyku.com/inc/api_mac10.php",
