@@ -39,3 +39,5 @@ Discovery,http://125.227.210.55:8154/VideoInput/play.ts
 HBOHD,http://125.227.210.55:8153/VideoInput/play.ts
 好萊塢電影,http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 HGTV,https://stream1.freetv.fun/hgtv-11.m3u8
+
+食尚玩家,http://125.227.210.55:8187/VideoInput/play.ts
