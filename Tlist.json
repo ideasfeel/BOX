@@ -185,16 +185,6 @@
         }
       },
 
-          {
-            "key": "csp_可可",
-            "name": "🥇┃可可┃",
-            "type": 3,
-            "api": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/py/py_keke.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-          },
-
 	              {
             "key": "csp_Euvod",
             "name": "🥇┃伊優┃",
@@ -230,33 +220,6 @@
           },
 
 	    {
-            "key": "csp_nyys",
-            "name": "🥈┃纽约┃",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/json_now/紐約影院.json"
-          },
-
-		
-        {
-            "key": "荐片",
-            "name": "⏳┃荐片┃磁力",
-            "type": 3,
-            "api": "csp_Jianpian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 1,
-            "ext": {
-                "danmu": true
-            }
-        },	
-
-        {
             "key": "天天弹幕",
             "name": "⏱️┃天天┃弹幕",
             "type": 3,
