@@ -39,10 +39,17 @@ MoMo綜合,rtmp://f13h.mine.nu/sat/tv761
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS歡樂台,http://125.227.210.55:8187/VideoInput/play.ts
 TVBSᴴᴰ,http://125.227.210.55:8188/VideoInput/play.ts
+CN卡通頻道,https://stream1.freetv.fun/49707139a109487de3eb22a2e3c27bef23d623128511ce6b2b3be40a54665ed1.ctv
+CN卡通頻道,https://stream1.freetv.fun/dc12110f04c56c92bb85c7d092ae8f56bd4191d8bcb0d205575d3135985a0b41.ctv
+東森幼幼ᴴᴰ,https://stream1.freetv.fun/dd352f37d3d6e602bc3c9974a58a05dbf5a5b4be165e3e435974538e681664de.m3u8
+東森幼幼ᴴᴰ,https://stream1.freetv.fun/efd2352881680d32b462b483fc61b087c29876e913c9eea99a39a230bde001ef.ctv
+東森幼幼ᴴᴰ,https://stream1.freetv.fun/4088762e6ada68d2bc87ce3ae83fe54d9fbf8c757f4793e7a7abf175d7957218.m3u8
 ELEVEN體育1,rtmp://f13h.mine.nu/sat/tv731#rtmp://f13h.mine.nu/sat/tv731
 ELEVEN體育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN體育2,rtmp://f13h.mine.nu/sat/tv741#rtmp://f13h.mine.nu/sat/tv741
 ELEVEN體育2,rtmp://f13h.mine.nu/sat/tv741
+八大精彩,https://stream1.freetv.fun/b79af9cc2f9278994e01c40a671834790dadb4249130ed11a1c29c60b000548e.ctv
+八大綜合,https://stream1.freetv.fun/e7df67a1a8400d4741889391ccc7e8a2b3f623a4f19544ae0863ae2c184bbe2c.ctv
 三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8#http://61.221.215.25:8800/hls/41/index.m3u8
 三立戲劇,https://stream1.freetv.fun/3c457c8ed2682fe7587b33a5b6393c12d9a1aab1e0a21697ae7afc826cd57591.ctv
 三立戲劇,https://stream1.freetv.fun/dfc1dbdc75f21440e766fce57311d845cc03e3c8acee950971c2d8a70a97df86.ctv
@@ -64,6 +71,8 @@ ELEVEN體育2,rtmp://f13h.mine.nu/sat/tv741
 龍華日韓,https://stream1.freetv.fun/54187f7b52bbb08407ce9894fa6e6b0ba632cdd0aeb29c91e9cb9efd129898ce.m3u8
 龍華日韓,https://stream1.freetv.fun/db29933bceb9fadc45d7e807beffc98751516e6c872f43b61e62ec4bfe489892.m3u8
 龍華日韓,http://aktv-stream.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
+龍華卡通,https://stream1.freetv.fun/5a7c8a4f7ad7743f985e06ff124da7ee0ce6a8940b6a664c80d5ebf20a834ba9.m3u8
+龍華卡通,https://stream1.freetv.fun/1f7966df9e2487ab17b31407417ff13d702cde7f1b27b547b97af6547904b86f.m3u8
 美食星球,https://stream1.freetv.fun/08de57f7d30700f30d1c58036a418ab73c6bb06856931beb3a5e5241bc3020e1.ctv
 亞洲旅遊臺,https://stream1.freetv.fun/2a6e43d5632beadfdeae4ceb9e89fe5feb575c426d73fcfdb939b8d9faa3fa89.ctv
 亞洲旅遊臺,https://stream1.freetv.fun/44d3040acb8a63b58adfaab3f7b13ae6a3792c8ccfb7d6c25948f432c9f29cf4.ctv
