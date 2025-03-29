@@ -24,6 +24,10 @@ DAZN2台,rtmp://f13h.mine.nu/sat/tv741
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
 三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8#http://61.221.215.25:8800/hls/41/index.m3u8
 三立臺灣臺,http://125.227.210.55:8160/VideoInput/play.ts
+龍華偶像台,http://aktv-stream.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
+龍華日韓台,http://aktv-stream.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
+龍華經典台,http://aktv-stream.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
+龍華電影台,http://aktv-stream.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8#http://61.221.215.25:8800/hls/57/index.m3u8#http://61.221.215.25:8800/hls/57/index.m3u8
 Discovery,http://125.227.210.55:8154/VideoInput/play.ts
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
