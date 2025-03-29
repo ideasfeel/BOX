@@ -43,6 +43,7 @@ HGTV,https://stream1.freetv.fun/hgtv-11.m3u8
 AMC電影臺,http://61.221.215.25:8800/hls/43/index.m3u8
 探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
 博斯網球,rtmp://f13h.mine.nu/sat/md031
+三立臺灣臺,http://125.227.210.55:8160/VideoInput/play.ts
 
 ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
