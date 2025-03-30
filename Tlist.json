@@ -872,8 +872,8 @@
                ],
                 "lives": [
                                        {
-                      "name": "TV",
-                      "url": "https://raw.githubusercontent.com/ideasfeel/BOX/refs/heads/main/Tlist.m3u8",
+                      "name": "list",
+                      "url": "https://raw.githubusercontent.com/ideasfeel/CODE/refs/heads/main/Tlist.m3u8",
                       "core": {
                         "auth": "local://tvbus",
                         "name": "123",
