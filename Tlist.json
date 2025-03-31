@@ -872,7 +872,7 @@
                ],
                 "lives": [
                     {
-                      "name": "CloudTV",
+                      "name": "🌥️CloudTV",
                       "url": "https://tang.hz.cz/so/xiaoyun.m3u",
                       "core": {
                         "auth": "local://tvbus",
@@ -885,7 +885,7 @@
                       }
                     },
 			                    {
-                      "name": "GatherTV",
+                      "name": "📺GatherTV",
                       "type": 3,
                       "playerType": 2,
                       "api": "https://json.doube.eu.org/python/py_litv.py",
