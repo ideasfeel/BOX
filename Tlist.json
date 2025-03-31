@@ -872,7 +872,7 @@
                ],
                 "lives": [
                     {
-                      "name": "小雲1台",
+                      "name": "小雲1",
                       "url": "https://tang.hz.cz/so/xiaoyun.m3u",
                       "core": {
                         "auth": "local://tvbus",
@@ -885,7 +885,7 @@
                       }
                     },
                     {
-                      "name": "小雲2台",
+                      "name": "小雲2",
                       "url": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/live/ueen2.txt",
                       "core": {
                         "auth": "local://tvbus",
@@ -898,7 +898,7 @@
                       }
                     },
                     {
-                      "name": "小雲測試專用(不要選)",
+                      "name": "小雲測試(不要選)",
                       "type": 0,
                       "url": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/live/ueen.txt",
                       "core": {
