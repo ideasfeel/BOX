@@ -899,10 +899,10 @@
                               }
                     },
                     {
-                      "name": "沐辰TV",
+                      "name": "GatherTV",
                       "type": 3,
                       "playerType": 2,
-                      "api": "https://json.doube.eu.org/python/py_litv.py",
+                      "api": "https://raw.githubusercontent.com/ideasfeel/CODE/refs/heads/main/py_litv.py",
                       "ext": "",
                       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
                       "logo": "https://epg.112114.xyz/logo/{name}.png"
