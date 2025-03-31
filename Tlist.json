@@ -872,7 +872,7 @@
                ],
                 "lives": [
                     {
-                      "name": "小雲",
+                      "name": "CloudTV",
                       "url": "https://tang.hz.cz/so/xiaoyun.m3u",
                       "core": {
                         "auth": "local://tvbus",
@@ -885,7 +885,7 @@
                       }
                     },
 			                    {
-                      "name": "沐辰TV",
+                      "name": "GatherTV",
                       "type": 3,
                       "playerType": 2,
                       "api": "https://json.doube.eu.org/python/py_litv.py",
@@ -908,7 +908,7 @@
                               }
                     },
 			                    {
-                      "name": "TVlist2",
+                      "name": "TVTV",
                       "url": "https://raw.githubusercontent.com/ideasfeel/CODE/refs/heads/main/Tlist2.m3u8",
                       "core": {
                         "auth": "local://tvbus",
