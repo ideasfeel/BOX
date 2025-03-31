@@ -872,7 +872,7 @@
                ],
                 "lives": [
                     {
-                      "name": "小雲1",
+                      "name": "小雲",
                       "url": "https://tang.hz.cz/so/xiaoyun.m3u",
                       "core": {
                         "auth": "local://tvbus",
@@ -898,9 +898,9 @@
                       }
                     },
                     {
-                      "name": "小雲測試(不要選)",
+                      "name": "TVlist",
                       "type": 0,
-                      "url": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/live/ueen.txt",
+                      "url": "https://raw.githubusercontent.com/ideasfeel/CODE/refs/heads/main/Tlist.m3u8",
                       "core": {
                         "auth": "local://tvbus",
                         "name": "123",
@@ -919,14 +919,6 @@
                       "ext": "",
                       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
                       "logo": "https://epg.112114.xyz/logo/{name}.png"
-                    },
-                    {
-                      "name": "4G-TV",
-                      "type": 0,
-                      "url": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/live/iptv.txt",
-                      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-                      "logo": "https://epg.112114.eu.org/logo/{name}.png",
-                      "playerType": 2
                     }
                 ],
       "parses": [
