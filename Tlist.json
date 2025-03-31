@@ -911,7 +911,8 @@
                       "name": "TVlist2",
                       "type": 0,
                       "url": "https://raw.githubusercontent.com/ideasfeel/CODE/refs/heads/main/Tlist2.m3u8",
-                      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+                      "epg": "",
+                      "logo": "",
                       "playerType": 2
                     }
                 ],
