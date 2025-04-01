@@ -1,7 +1,7 @@
 {
-    "spider": "https://github.com/ideasfeel/CODE/raw/refs/heads/main/spider.jar",
-	"logo": "https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/catsleepy2.gif",
- "wallpaper": "https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/pexels.jpeg",
+    "spider": "https://tinyurl.com/2dpbe4q2",
+	"logo": "https://tinyurl.com/252sn3w2",
+ "wallpaper": "https://tinyurl.com/2cnqnfsx",
     "sites": [
         {
             "key": "豆瓣",
@@ -886,7 +886,7 @@
 			                    {
                       "name": "🌐┃TVlist",
                       "type": 0,
-                      "url": "https://raw.githubusercontent.com/ideasfeel/CODE/refs/heads/main/Tlist.m3u",
+                      "url": "https://tinyurl.com/266yblzw",
                       "core": {
                         "auth": "local://tvbus",
                         "name": "123",
