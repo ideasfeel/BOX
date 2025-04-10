@@ -894,7 +894,7 @@
                       "name": "📺┃YogurtTV",
                       "logo": "https://epg.112114.eu.org/logo/{name}.png",
 
-                      "url": "https://tinyurl.com/26hfv23l",
+                      "url": "https://raw.githubusercontent.com/ideasfeel/CODE/refs/heads/main/yg.txt",
                       "core": {
                         "auth": "local://tvbus",
                         "name": "123",
