@@ -1,10 +1,9 @@
 {
     "spider": "https://tinyurl.com/2dpbe4q2",
     "sites": [
-  
         {
             "key": "小苹果弹幕",
-            "name": "🍎┃苹果影视",
+            "name": "🍎┃蘋果影视",
             "type": 3,
             "api": "csp_Xpg",
             "searchable": 1,
@@ -35,17 +34,6 @@
       "ext": "https://www.wwgz.cn"
     },
 
-        {
-            "key": "py_aiguatv",
-            "name": "🥔┃愛瓜影视",
-            "type": 3,
-            "api": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/py/py_aigua.py",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 1
-          },
-
           {
             "key": "hipy_js_奇珍异兽[官]",
             "name": "🥝┃愛奇异",
@@ -55,6 +43,8 @@
             "api": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/drpy_libs1/drpy2.min.js",
             "ext": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/drpy_js1/奇珍异兽[官].js"
           },
+
+	   
 
           {
             "key": "drpy_js1_优酷",
@@ -85,7 +75,8 @@
             "api": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/drpy_libs1/drpy2.min.js",
             "ext": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/drpy_js1/百忙无果[官].js"
           },
- {
+
+	     {
             "key": "yfsp",
             "name": "⛵┃愛壹帆",
             "type": 3,
@@ -107,7 +98,59 @@
                   "https://*.googletagmanager.com/*",
                   "https://*.google-analytics.com/*"
                 ]
+              },
+              "spider": {
+                "homeContent": {"loadUrl": "https://m.yfsp.tv/"},
+                "categoryContent": {
+                  "loadUrl": "https://m.yfsp.tv/list/${tid}?type=${index-0:-0}${index-1:-,0}${index-2:-,0}${index-3:-,0}${index-4:-,0}${index-5:-}"
+                },
+                "detailContent": {"loadUrl": "https://m.yfsp.tv/play/${id}"},
+                "playerContent": {
+                  "loadUrl": "https://m.yfsp.tv/play/${mediaKey}?id=${episodeKey}"
+                },
+                "searchContent": {"loadUrl": "https://m.yfsp.tv/search"}
               }
+            }
+          },
+
+	          {
+        "key": "金牌影视",
+        "name": "🥇┃金牌影院",
+        "type": 3,
+        "api": "csp_Jpys",
+        "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311",
+        "playerType": 2,
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1
+      },
+      {
+        "key": "csp_开心影院",
+        "name": "🥈┃銀牌影院",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/json_now/開心影院.json"
+      },
+      {
+        "key": "csp_歐樂影院ORG",
+        "name": "🥉┃銅牌影院",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": {
+          "简介": "content_desc context clearfix\">&&</span>",
+          "分类url": "https://www.oulevod.org/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
+          "分类": "電視劇$2#電影$1#動漫$4#綜藝$3#短劇$53",
+          "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他"
+        }
+      }
      
     ],
     "parses": [
