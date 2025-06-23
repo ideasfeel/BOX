@@ -31,34 +31,7 @@
   "vod": [
 
         {
-      "name": "🎖️金牌影院",
-      "version": 2,
-      "webSite": "https://www.ghw9zwp5.com",
-      "instance": "jpyy20240716",
-      "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/jpyy.js",
-      "type": 100
-    },
-
-    {
-      "name": "🎖️欧乐影院",
-      "version": 2,
-      "webSite": "https://www.olevod.tv",
-      "instance": "olevod20240620",
-      "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/olevod.js",
-      "type": 100
-    },
-
-    {
-      "name": "🎖️韩剧看看",
-      "version": 2,
-      "webSite": "https://www.hanjukankan.com",
-      "instance": "hjkk20240624",
-      "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/hjkk.js",
-      "type": 100
-    },
-
-        {
-      "name": "🍈瓜子影视",
+      "name": "瓜子影視",
       "version": 2,
       "remark": "v1.6.53 及以上版本",
       "webSite": "https://api.9cec79d.com",
@@ -69,7 +42,7 @@
     },
 
     {
-      "name": "🍈瓜子NET",
+      "name": "瓜子網路",
       "version": 2,
       "webSite": "https://api.zaqohu.com",
       "instance": "gzys20240822",
@@ -77,90 +50,26 @@
       "type": 100
     },
 
+
     {
-      "name": "🌤️在线之家",
+      "name": "歐樂影院",
       "version": 2,
-      "webSite": "https://www.zxzja.com",
-      "instance": "zxzj20240620",
-      "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/zxzj.js",
+      "webSite": "https://www.olevod.tv",
+      "instance": "olevod20240620",
+      "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/olevod.js",
       "type": 100
     },
 
-    {
-      "name": "🌤️南风短剧",
-      "version": 1,
-      "webSite": "https://www.nanf.cc",
-      "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/nanfdj.js",
-      "type": 101
-    },
-
-   {
-        "api": "https://cj.rycjapi.com/api.php/provide/vod",
-        "name": "⭐如意"
-    },
-    {
-        "api": "https://cjhwba.com/api.php/provide/vod/",
-        "name": "⭐华为吧"
-    },
-    {
-        "api": "https://api.1080zyku.com/inc/apijson.php",
-        "name": "⭐1080源"
-    },
-       {
-        "api": "https://cj.lzcaiji.com/api.php/provide/vod/at/json",
-        "name": "⭐量子源"
-    },
-     {
-        "api": "https://www.mdzyapi.com/api.php/provide/vod/",
-        "name": "⭐墨斗"
-    },
-       {
-        "api": "https://okzyw9.com/api.php/provide/vod/",
-        "name": "⭐OK"
-    },
-        {
-        "api": "http://sdzyapi.com/api.php/provide/vod/",
-        "name": "⭐闪电"
-    },
-       {
-        "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-        "name": "⭐新浪"
-    },
-      {
+          {
         "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/",
-        "name": "⭐量子资源(lzm3u8)"
-    },
-     {
-        "api": "https://360zy.com/api.php/seaxml/vod",
-        "name": "⭐360资源"
-    },
-       {
-        "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json/",
-        "name": "⭐爱坤资源"
-    },
-       {
-        "api": "https://api.1080zyku.com/inc/api_mac10.php",
-        "name": "⭐1080资源"
+        "name": "量子資源"
     }
-
 
   ],
   "live": [
     {
-      "name": "📺电视直播",
+      "name": "📺電視直播",
       "api": "https://tv.iill.top/m3u/Gather",
-      "type": 10,
-      "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
-    },
-    {
-      "name": "🎥网络直播",
-      "api": "https://tv.iill.top/m3u/Live",
-      "type": 10,
-      "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
-    },
-    {
-      "name": "🚴‍♂️体育直播",
-      "api": "https://tv.iill.top/m3u/Sport",
       "type": 10,
       "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
     }
