@@ -96,7 +96,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/%E9%97%AA%E9%97%AA.json"
+            "ext": "./json/闪闪.json"
         }
 
   ],
@@ -109,7 +109,7 @@
             "name": "📺｜電視 (4gTV)",
             "url": "http://141.11.87.241:20013/?type=m3u",
              "epg": ""
-        }
+        },
 
 
 {
