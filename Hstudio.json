@@ -14,7 +14,7 @@
    
     {
       "key": "csp_Kugou_FM",
-      "name": "音樂 (酷狗)",
+      "name": "酷狗",
       "type": 3,
       "api": "csp_Kugou",
       "jar": "./jar/lem0318.jar;md5;626cd9f34ad3d3899bb2de54b1bc0a25",
