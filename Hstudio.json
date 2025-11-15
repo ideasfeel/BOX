@@ -108,14 +108,14 @@
   "lives": [
 
 {
-            "name": "📺｜電視 (4gTV)",
+            "name": "電視 (4gTV)",
             "url": "http://141.11.87.241:20013/?type=m3u",
              "epg": ""
         },
 
 
 {
-            "name": "📺｜電視 (SmtTV)",
+            "name": "電視 (SmtTV)",
             "url": "https://files.catbox.moe/dav7c9.m3u",
              "epg": ""
         }
