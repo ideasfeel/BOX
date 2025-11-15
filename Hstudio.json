@@ -1,6 +1,6 @@
 {
   "spider": "./jar/pg.jar;md5;7840d0b61f9641a47728e3a92020f35a",
- "logo": "https://tinyurl.com/282odljw",
+	"logo": "https://tinyurl.com/27z5yhp6",
   "sites": [
     {
       "key": "豆瓣",
@@ -86,7 +86,18 @@
       "ext": {
         "classes": [ {"type_name": "酷狗", "type_id": "kugou"} ]
       }
-    }
+    },
+
+        {
+            "key": "闪闪音乐网",
+            "name": "音樂 (閃閃)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/闪闪.json"
+        }
 
   ],
   "parses": [
