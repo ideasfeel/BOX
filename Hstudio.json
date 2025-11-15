@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "🇹🇼｜熱播排行榜｜自動切換",
+      "name": "豆瓣",
       "type": 3,
       "api": "csp_Douban",
       "jar": "./jar/pg.jar;md5;7840d0b61f9641a47728e3a92020f35a",
@@ -15,7 +15,7 @@
    
     {
       "key": "csp_Kugou_FM",
-      "name": "🎧｜酷狗聽歌",
+      "name": "音樂 (酷狗)",
       "type": 3,
       "api": "csp_Kugou",
       "jar": "./jar/lem0318.jar;md5;626cd9f34ad3d3899bb2de54b1bc0a25",
