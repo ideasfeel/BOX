@@ -1,4 +1,6 @@
 {
+  "spider": "./jar/pg.jar;md5;7840d0b61f9641a47728e3a92020f35a",
+ "logo": "./img/logo.gif",
   "sites": [
     {
       "key": "豆瓣",
@@ -11,10 +13,57 @@
       "quickSearch": 0,
       "changeable": 1
     },
+
+    {
+      "key": "py_又是一個金牌",
+      "name": "王牌影院",
+      "type": 3,
+      "api": "./py/又是一個金牌.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "site": "https://jpyy.com,https://www.jiabaide.cn,https://cqzuoer.com,https://www.tjrongze.com,https://www.jpyy2.com,https://www.cfkj86.com"
+      }
+    },
+    {
+      "key": "py_文才",
+      "name": "文才影視",
+      "type": 3,
+      "api": "./py/文才影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
+      }
+    },
+
+    {
+      "key": "苹果",
+      "name": "蘋果影視",
+      "type": 3,
+      "api": "./py/py_pingguo.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+
+
+    {
+      "key": "瓜子影视",
+      "name": "瓜子影視",
+      "type": 3,
+      "api": "csp_Gz360",
+      "jar": "./jar/xiaosa-0616.jar;md5;08b61f009f77be1627bf982e8bd5a9bd",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
    
     {
       "key": "csp_Kugou_FM",
-      "name": "酷狗",
+      "name": "音樂 (酷狗)",
       "type": 3,
       "api": "csp_Kugou",
       "jar": "./jar/lem0318.jar;md5;626cd9f34ad3d3899bb2de54b1bc0a25",
@@ -297,19 +346,19 @@
         "#EXT-X-KEY:METHOD=AES-128,URI=\"[^\"]+\"\\r*\\n*#EXTINF:3.333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
       ]
     },
-    { "name": "农民", "hosts": ["toutiaovod.com"], "regex": ["video/tos/cn"] },
-    { "name": "火山", "hosts": ["huoshan.com"], "regex": ["item_id="] },
-    { "name": "抖音", "hosts": ["douyin.com"], "regex": ["is_play_url="] },
-    { "name": "磁力", "hosts": ["magnet"], "regex": ["最 新", "直 播", "更 新"] },
+    { "name": "♻️农民", "hosts": ["toutiaovod.com"], "regex": ["video/tos/cn"] },
+    { "name": "♻️火山", "hosts": ["huoshan.com"], "regex": ["item_id="] },
+    { "name": "♻️抖音", "hosts": ["douyin.com"], "regex": ["is_play_url="] },
+    { "name": "♻️磁力", "hosts": ["magnet"], "regex": ["最 新", "直 播", "更 新"] },
     {
-      "name": "饭团点击",
+      "name": "♻️饭团点击",
       "hosts": ["dadagui", "freeok", "dadagui"],
       "script": [
         "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();"
       ]
     },
     {
-      "name": "毛驴点击",
+      "name": "♻️毛驴点击",
       "hosts": ["www.maolvys.com"],
       "script": [
         "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
